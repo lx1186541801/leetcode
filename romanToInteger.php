@@ -55,12 +55,4 @@ foreach ($str as $v) {
 var_dump($num);
 
 
-
-
-
-
-
-
-
-
  ?>
